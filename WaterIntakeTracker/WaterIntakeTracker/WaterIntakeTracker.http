@@ -1,0 +1,6 @@
+@WaterIntakeTracker_HostAddress = http://localhost:5034
+
+GET {{WaterIntakeTracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
